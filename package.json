@@ -1,0 +1,15 @@
+{
+  "name": "firebasecrud",
+  "version": "1.0.0",
+  "description": "WMDD4935 Assignment 2",
+  "main": "writeData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kunal, Mario, Harinder",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "firebase": "^4.6.0"
+  }
+}
